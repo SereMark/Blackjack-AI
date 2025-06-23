@@ -1,0 +1,23 @@
+{
+  "name": "blackjack-gestureai",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mediapipe/tasks-vision": "0.10.22-rc.20250304",
+    "framer-motion": "^12.17.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-hot-toast": "^2.5.2",
+    "zustand": "^5.0.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.10",
+    "@vitejs/plugin-react-swc": "^3.10.2",
+    "tailwindcss": "^4.1.10",
+    "vite": "^6.3.5"
+  }
+}
